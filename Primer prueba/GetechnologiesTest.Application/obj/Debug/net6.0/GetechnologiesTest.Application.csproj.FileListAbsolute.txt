@@ -1,0 +1,15 @@
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\bin\Debug\net6.0\GetechnologiesTest.Application.deps.json
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\bin\Debug\net6.0\GetechnologiesTest.Application.dll
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\bin\Debug\net6.0\GetechnologiesTest.Application.pdb
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\bin\Debug\net6.0\GetechnologiesTest.Domain.dll
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\bin\Debug\net6.0\GetechnologiesTest.Domain.pdb
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\obj\Debug\net6.0\GetechnologiesTest.Application.csproj.AssemblyReference.cache
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\obj\Debug\net6.0\GetechnologiesTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\obj\Debug\net6.0\GetechnologiesTest.Application.AssemblyInfoInputs.cache
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\obj\Debug\net6.0\GetechnologiesTest.Application.AssemblyInfo.cs
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\obj\Debug\net6.0\GetechnologiesTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\obj\Debug\net6.0\Getechno.197EB4F8.Up2Date
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\obj\Debug\net6.0\GetechnologiesTest.Application.dll
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\obj\Debug\net6.0\refint\GetechnologiesTest.Application.dll
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\obj\Debug\net6.0\GetechnologiesTest.Application.pdb
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Application\obj\Debug\net6.0\ref\GetechnologiesTest.Application.dll

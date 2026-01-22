@@ -1,0 +1,11 @@
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\bin\Debug\net6.0\GetechnologiesTest.Domain.deps.json
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\bin\Debug\net6.0\GetechnologiesTest.Domain.dll
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\bin\Debug\net6.0\GetechnologiesTest.Domain.pdb
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\obj\Debug\net6.0\GetechnologiesTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\obj\Debug\net6.0\GetechnologiesTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\obj\Debug\net6.0\GetechnologiesTest.Domain.AssemblyInfo.cs
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\obj\Debug\net6.0\GetechnologiesTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\obj\Debug\net6.0\GetechnologiesTest.Domain.dll
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\obj\Debug\net6.0\refint\GetechnologiesTest.Domain.dll
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\obj\Debug\net6.0\GetechnologiesTest.Domain.pdb
+C:\Users\Luis Alberto Ramirez\source\repos\PruebaTecnicaGetechnologies\GetechnologiesTest.Domain\obj\Debug\net6.0\ref\GetechnologiesTest.Domain.dll
