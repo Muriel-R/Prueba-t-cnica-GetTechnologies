@@ -1,0 +1,144 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.4">
+  <diagram name="Página-1" id="Cscehft4qCr9KTGYlwfr">
+    <mxGraphModel dx="2946" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-5" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Inicio" vertex="1">
+          <mxGeometry height="60" width="100" x="364" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-6" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;Crear WindowsServiceManager / Log: Iniciando actualizaciones&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="196" x="316" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-12" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-55" connectable="0" parent="sqx7VAmWE6oYdfZtSTxU-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.72" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-21" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-56" connectable="0" parent="sqx7VAmWE6oYdfZtSTxU-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sí" vertex="1">
+          <mxGeometry relative="1" x="-0.3274" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&#xa;¿Hay procesos ‘psample’?&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="76" x="376" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-24" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;Crear backupPath (/tmp/Backup/&amp;lt;id&amp;gt;)&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-27" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-52" connectable="0" parent="sqx7VAmWE6oYdfZtSTxU-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sí" vertex="1">
+          <mxGeometry relative="1" x="-0.3455" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-31" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-51" connectable="0" parent="sqx7VAmWE6oYdfZtSTxU-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.2" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&#xa;¿Falla crear backup?&#xa;&#xa;" vertex="1">
+          <mxGeometry height="80" width="86" x="371" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-23" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;Kill procesos&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-30" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-29" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;backupPath = TempPath/actualizaciones/Backup/&amp;lt;id&amp;gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="210" x="115" y="507" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-34" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;UpdateFiles(source=monitorFilesLocation, target=installationFolder, backup=backupPath)&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="280" x="274" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-37" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-54" connectable="0" parent="sqx7VAmWE6oYdfZtSTxU-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sí" vertex="1">
+          <mxGeometry relative="1" x="-0.1233" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-46" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-53" connectable="0" parent="sqx7VAmWE6oYdfZtSTxU-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.36" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;br&gt;¿result != &quot;‘’ ?&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-39" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;Rollback UpdateFiles(backupPath → installationFolder)&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="180" x="130" y="683" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-44" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-43" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;Limpiar backup (RemoveDirectoryContents)&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="180" x="130" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-43" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Fin" vertex="1">
+          <mxGeometry height="60" width="100" x="364" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-49" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;Limpiar backup y carpeta de updates&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-50" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;Borrar directorios backupPath y monitorFilesLocation&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-57" edge="1" parent="1" source="sqx7VAmWE6oYdfZtSTxU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="sqx7VAmWE6oYdfZtSTxU-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sqx7VAmWE6oYdfZtSTxU-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;ReleaseUpdateMonitorTask()&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="196" x="316" y="1109" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

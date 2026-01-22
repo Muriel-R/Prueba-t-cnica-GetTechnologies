@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWZ4l0ZahIY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luis Alberto Ramirez\\source\\repos\\SampleRunner\\SampleRunner\\SampleRunner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luis Alberto Ramirez\\.nuget\\packages\\glimpse\\1.8.6\\glimpse.1.8.6.nupkg.sha512",
+    "C:\\Users\\Luis Alberto Ramirez\\.nuget\\packages\\glimpse.log4net\\1.1.0\\glimpse.log4net.1.1.0.nupkg.sha512",
+    "C:\\Users\\Luis Alberto Ramirez\\.nuget\\packages\\log4net\\2.0.3\\log4net.2.0.3.nupkg.sha512",
+    "C:\\Users\\Luis Alberto Ramirez\\.nuget\\packages\\microsoft.web.xdt\\3.2.2\\microsoft.web.xdt.3.2.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Glimpse 1.8.6\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Glimpse",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"Glimpse.Log4Net 1.1.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "Glimpse.Log4Net",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"log4net 2.0.3\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "log4net",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

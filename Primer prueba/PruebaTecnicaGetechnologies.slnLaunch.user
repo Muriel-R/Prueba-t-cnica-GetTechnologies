@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "GetechnologiesTest.Api\\GetechnologiesTest.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GetechnologiesTest.WpfClient\\GetechnologiesTest.WpfClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
